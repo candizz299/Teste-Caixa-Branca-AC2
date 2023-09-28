@@ -1,7 +1,7 @@
 # Teste-Caixa-Branca-AC2
 Atividade avaliativa referente á matéria de Qualidade e Testes de Software
 
-# Questões a serem avaliadas
+Questões a serem avaliadas
 # A DOCUMENTAÇÃO FOI DESCRITA NO CÓDIGO?
 # AS VARIÁVEIS E CONSTANTES POSSUEM BOA NOMENCLATURA?
 # EXISTEM LEGIBILIDADE E ORGANIZAÇÃO NO CÓDIGO?
