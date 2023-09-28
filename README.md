@@ -9,7 +9,7 @@ Questões a serem avaliadas
 # A ARQUITETURA UTILIZADA FOI DEVIDAMENTE RESPEITADA?
 # AS CONEXÕES UTILIZADAS FORAM FECHADAS?
 
-
+Respostas 
 # A DOCUMENTAÇÃO FOI DESCRITA NO CÓDIGO?
 R. Há pequenos comentarios, carecendo de uma complexidade maior e melhor para a ocasião.
 
